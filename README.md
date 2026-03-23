@@ -1,3 +1,5 @@
+![NTHN](header.png)
+
 # NTHN
 
 Networked Trustless Hashgraph Nodes. A framework for persistent state abstraction in distributed systems.
