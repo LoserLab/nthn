@@ -8,7 +8,7 @@ NTHN introduces a novel architecture in which system state is maintained without
 
 ## Paper
 
-[Read the full paper](https://nthn.vercel.app)
+[Read the full paper](https://nthn-paper.vercel.app)
 
 ## License
 
